@@ -1,4 +1,4 @@
-Training pipeline for training contrastive image-text on RexGradient-160k dataset
+Training pipeline for training image-text models on RexGradient-160k dataset
 
 
 # Code structure
