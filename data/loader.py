@@ -5,6 +5,7 @@ from torch.utils.data import random_split
 import pytorch_lightning as pl
 from torchvision import transforms
 from transformers import AutoTokenizer
+from torch.utils.data import IterableDataset
 
 
 class RexGradDataset(IterableDataset):
