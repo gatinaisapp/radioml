@@ -3,7 +3,8 @@ Training pipeline for training contrastive image-text on RexGradient-160k datase
 
 # Code structure
 
-
+```
+.
 ├── data/
 │   ├── loader.py
 │   └── preprocessing.py
@@ -17,4 +18,4 @@ Training pipeline for training contrastive image-text on RexGradient-160k datase
 │   └── utils.py
 ├── requirements.txt
 └── README.md
-
+```
